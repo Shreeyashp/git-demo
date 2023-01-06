@@ -16,4 +16,4 @@ git add [to track the files] ---> git commit [staging environment] ---> [gitpush
 9. git remote add origin https://github.com/Shreeyashp/  [remaining your repo name]
 10. git push -u origin main
 11. git branch developer1 [to add new branch]
-12. git checkout developer1 [to switch to added new branch]
+12. git checkout developer1 [to switch to added new branch] 
