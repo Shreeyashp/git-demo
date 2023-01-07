@@ -23,9 +23,9 @@ git add [to track the files] ---> git commit [staging environment] ---> [gitpush
 
 To add any new collaborators [setting --> collaborators -->add people] to perform task in group
 
-From github in code option copy link of url
+From github [in code] i.e green colour option after that copy link of url
 
-1. To change directory >E:
+1. To change directory/or to go specific drive,   >E:
 2. To check folder that are present in directory dic
 3. To select particular folder of dic >cd shree
 4. git clone https://github.com/Shreeyashp/
